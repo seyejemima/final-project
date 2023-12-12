@@ -17,3 +17,20 @@ $dark: #04040e;
 
 // Then add additional custom code here
 
+root {
+    --bs-breakpoint-xs: 0;
+    --bs-breakpoint-sm: 576px;
+    --bs-breakpoint-md: 768px;
+    --bs-breakpoint-lg: 992px;
+    --bs-breakpoint-xl: 1200px;
+    --bs-breakpoint-xxl: 1400px;
+}
+
+body{
+font-family: 'Libre Baskerville', serif;
+font-weight: normal;
+}
+
+h2 {
+    font-family: 'Kalnia', serif;
+}
